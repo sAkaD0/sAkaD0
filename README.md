@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ugodegueldre.pro@gmail.com**
 
-- ⚡ Fun fact **I've done my CV on a website**
+- ⚡ Fun fact **I do theater in Walloon and I play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
