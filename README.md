@@ -13,11 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sak0_yt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sak0_yt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ugo-degueldre-8272882b6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugo degueldre" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100009610656502" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="degueldre ugo" height="30" width="40" /></a>
-<a href="https://instagram.com/ugo.dgldr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ugo.dgldr" height="30" width="40" /></a>
-<a href="https://discord.gg/sAkAd0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sAkAd0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
