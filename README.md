@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sakad0&label=Profile%20views&color=0e75b6&style=flat" alt="sakad0" />
 </p>
 
-- 🌱 I’m currently learning **Java, JavaScript**
-
 - 💬 Ask me about **.NET, SQL Server, Angular, Python**
 
 - 📫 How to reach me **ugodegueldre.pro@gmail.com**
